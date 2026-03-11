@@ -1,5 +1,6 @@
-id: 140bff97-82d4-4143-897e-0a12bf9cd14c
 name: form-forge
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, tailwind, vite]
 repo: "https://github.com/mxn2020/form-forge"
 deploy_url: null
 last_active: 2026-02-24
-tags: []
-notes: 
+tags: [forms, builder, ui, dynamic, validation, components, tools]
+notes: null
+id: 140bff97-82d4-4143-897e-0a12bf9cd14c
