@@ -45,7 +45,7 @@
   },
   "description": "Drag-and-drop form builder with real-time validation",
   "author": "Mehdi Nabhani",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "form",
     "forge",
